@@ -1,0 +1,14 @@
+[Unit]
+Description=GEM Boss Discord Bot - Granado Espada M 24h
+After=network.target
+
+[Service]
+User=ubuntu
+WorkingDirectory=/home/ubuntu/gem_discord_bot
+EnvironmentFile=/home/ubuntu/gem_discord_bot/.env
+ExecStart=/usr/bin/python3 bot.py
+Restart=always
+RestartSec=10
+
+[Install]
+WantedBy=multi-user.target

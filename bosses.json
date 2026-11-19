@@ -1,0 +1,240 @@
+[
+  {
+    "key": "hill_giant",
+    "name_th": "ฮิลล์ไจแอนท์",
+    "name_en": "Hill Giant",
+    "aliases": [
+      "hill",
+      "hillgiant",
+      "ไจแอนท์",
+      "ฮิลล์",
+      "hill giant"
+    ],
+    "city_th": "เรโบลโด",
+    "city_en": "Reboldoeux",
+    "map_th": "สามแยกเฟอร์รุชชิโอ",
+    "map_en": "Ferruccio Junction",
+    "type_th": "ฟิลด์บอส",
+    "type_en": "Field Boss",
+    "respawn_hours": 3,
+    "color": 3066993
+  },
+  {
+    "key": "nest_giant",
+    "name_th": "ยักษ์หัวรังนก",
+    "name_en": "Bird's Nest Giant",
+    "aliases": [
+      "nest",
+      "bird",
+      "รังนก",
+      "nest giant"
+    ],
+    "city_th": "เรโบลโด",
+    "city_en": "Reboldoeux",
+    "map_th": "เขตเรโบลโด",
+    "map_en": "Reboldoeux Region",
+    "type_th": "ฟิลด์บอส",
+    "type_en": "Field Boss",
+    "respawn_hours": 3,
+    "color": 3066993
+  },
+  {
+    "key": "pollux",
+    "name_th": "พอลลักซ์",
+    "name_en": "Pollux",
+    "aliases": [
+      "pollux",
+      "พอลลักซ์"
+    ],
+    "city_th": "ท่าเรือโคอิมบรา",
+    "city_en": "The Port of Coimbra",
+    "map_th": "สุสานใต้ดินเททรา",
+    "map_en": "Tetra Catacomb",
+    "type_th": "มินิบอส / บอสคู่",
+    "type_en": "Mini Boss",
+    "respawn_hours": 5,
+    "color": 3447003
+  },
+  {
+    "key": "castor",
+    "name_th": "แคสเตอร์",
+    "name_en": "Castor",
+    "aliases": [
+      "castor",
+      "แคสเตอร์"
+    ],
+    "city_th": "ท่าเรือโคอิมบรา",
+    "city_en": "The Port of Coimbra",
+    "map_th": "ถนนทองเททรา",
+    "map_en": "Tetra Golden Road",
+    "type_th": "มินิบอส / บอสคู่",
+    "type_en": "Mini Boss",
+    "respawn_hours": 5,
+    "color": 3447003
+  },
+  {
+    "key": "treasure_golem",
+    "name_th": "โกเลมสมบัติ",
+    "name_en": "Treasure Golem",
+    "aliases": [
+      "treasure",
+      "golem",
+      "โกเลม",
+      "สมบัติ"
+    ],
+    "city_th": "ท่าเรือโคอิมบรา",
+    "city_en": "The Port of Coimbra",
+    "map_th": "ห้องโบราณวัตถุเททรา",
+    "map_en": "Tetra Antiquities Room",
+    "type_th": "บอสปราบปราม",
+    "type_en": "Subjugation Boss",
+    "respawn_hours": 5,
+    "color": 3447003
+  },
+  {
+    "key": "merman",
+    "name_th": "หัวหน้าเผ่าเมอร์แมน",
+    "name_en": "Merman Chieftain",
+    "aliases": [
+      "merman",
+      "เมอร์แมน",
+      "chieftain"
+    ],
+    "city_th": "ท่าเรือโคอิมบรา",
+    "city_en": "The Port of Coimbra",
+    "map_th": "ดาดฟ้าปอร์โตเบลโล",
+    "map_en": "Porto Bello Deck",
+    "type_th": "ฟิลด์บอส Lv.63",
+    "type_en": "Field Boss Lv.63",
+    "respawn_hours": 5,
+    "color": 3447003
+  },
+  {
+    "key": "scharffenberger",
+    "name_th": "กัปตันชาร์ฟเฟนเบอร์เกอร์",
+    "name_en": "Captain Scharffenberger",
+    "aliases": [
+      "scharffenberger",
+      "captain",
+      "ชาร์ฟ",
+      "กัปตัน"
+    ],
+    "city_th": "ท่าเรือโคอิมบรา",
+    "city_en": "The Port of Coimbra",
+    "map_th": "หน้าผาร้างปอร์โตเบลโล",
+    "map_en": "Porto Bello Desolate Cliff",
+    "type_th": "ฟิลด์บอส Lv.69",
+    "type_en": "Field Boss Lv.69",
+    "respawn_hours": 5,
+    "color": 3447003
+  },
+  {
+    "key": "wanlanshe",
+    "name_th": "วานลันเช่",
+    "name_en": "Wanlanshe / Balanshe",
+    "aliases": [
+      "wanlanshe",
+      "balanshe",
+      "วานลันเช่",
+      "บาลานเช่"
+    ],
+    "city_th": "ท่าเรือโคอิมบรา",
+    "city_en": "The Port of Coimbra",
+    "map_th": "ท่าเรือร้างปอร์โตเบลโล",
+    "map_en": "Porto Bello Deserted Quay",
+    "type_th": "มินิบอส",
+    "type_en": "Mini Boss",
+    "respawn_hours": 5,
+    "color": 3447003
+  },
+  {
+    "key": "big_cockatrice",
+    "name_th": "บิ๊กค็อกคาทริซ",
+    "name_en": "Big Cockatrice",
+    "aliases": [
+      "big",
+      "cockatrice",
+      "ค็อกคาทริซ",
+      "บิ๊ก"
+    ],
+    "city_th": "เมืองโอช",
+    "city_en": "City of Auch",
+    "map_th": "แม่น้ำโบนาวิสตา",
+    "map_en": "Bonavista River",
+    "type_th": "ฟิลด์บอส Lv.69",
+    "type_en": "Field Boss Lv.69",
+    "respawn_hours": 11,
+    "color": 15105570
+  },
+  {
+    "key": "giant_cockatrice",
+    "name_th": "ค็อกคาทริซยักษ์",
+    "name_en": "Giant Cockatrice",
+    "aliases": [
+      "giant",
+      "giant cockatrice"
+    ],
+    "city_th": "เมืองโอช",
+    "city_en": "City of Auch",
+    "map_th": "ทุ่งริออน",
+    "map_en": "Rion Prairie",
+    "type_th": "มินิบอส",
+    "type_en": "Mini Boss",
+    "respawn_hours": 11,
+    "color": 15105570
+  },
+  {
+    "key": "victor",
+    "name_th": "วิกเตอร์ (ไมตี้ วิกเตอร์)",
+    "name_en": "Victor / Mighty Victor",
+    "aliases": [
+      "victor",
+      "mighty",
+      "วิกเตอร์",
+      "ไมตี้"
+    ],
+    "city_th": "เมืองโอช",
+    "city_en": "City of Auch",
+    "map_th": "ห้องสมุดใหญ่คฤหาสน์ทอร์เช่",
+    "map_en": "Torsche Mansion Grand Library",
+    "type_th": "ฟิลด์บอส",
+    "type_en": "Field Boss",
+    "respawn_hours": 11,
+    "color": 15105570
+  },
+  {
+    "key": "great_hill_giant",
+    "name_th": "เกรทฮิลล์ไจแอนท์",
+    "name_en": "Great Hill Giant",
+    "aliases": [
+      "great",
+      "great hill"
+    ],
+    "city_th": "เมืองโอช",
+    "city_en": "City of Auch",
+    "map_th": "เวกัสฮาเวียร์",
+    "map_en": "Vegas Javier",
+    "type_th": "เรดบอส",
+    "type_en": "Raid Boss",
+    "respawn_hours": 11,
+    "color": 15105570
+  },
+  {
+    "key": "griffon",
+    "name_th": "กริฟฟอน",
+    "name_en": "Griffon",
+    "aliases": [
+      "griffon",
+      "กริฟฟอน",
+      "griffin"
+    ],
+    "city_th": "เมืองโอช",
+    "city_en": "City of Auch",
+    "map_th": "เวกัสฮาเวียร์",
+    "map_en": "Vegas Javier",
+    "type_th": "เรดบอส",
+    "type_en": "Raid Boss",
+    "respawn_hours": 11,
+    "color": 15105570
+  }
+]

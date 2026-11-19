@@ -1,0 +1,14 @@
+version: '3.8'
+services:
+  bot:
+    build: .
+    container_name: gem-boss-bot
+    restart: unless-stopped
+    env_file:
+      - .env
+    environment:
+      - KEEP_ALIVE=0
+    volumes:
+      - ./boss_timers.json:/app/boss_timers.json
+      - ./settings.json:/app/settings.json
+      - ./bosses.json:/app/bosses.json

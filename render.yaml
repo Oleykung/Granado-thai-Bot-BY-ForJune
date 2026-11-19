@@ -1,0 +1,15 @@
+services:
+  - type: web
+    name: gem-boss-bot
+    env: python
+    region: singapore
+    plan: free
+    buildCommand: pip install -r requirements.txt
+    startCommand: python bot.py
+    envVars:
+      - key: DISCORD_TOKEN
+        sync: false
+      - key: KEEP_ALIVE
+        value: "1"
+      - key: PYTHON_VERSION
+        value: 3.11.0
